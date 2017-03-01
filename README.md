@@ -6,6 +6,8 @@
 
 ## Ethereum Go (Ethereum Classic Classic Blockchain)
 
+TODO: Update this fork to reflect the rebranding to Ethereum Classic Classic
+
 Official golang implementation of the Ethereum Classic protocol supporting the
 original chain. A version which can **honestly** offer both a censorship
 resistant and unstoppable application platform for developers.
